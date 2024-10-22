@@ -1,0 +1,1 @@
+# Párhuzamos programozás Javaban (JAVA-CONC) (2 nap)

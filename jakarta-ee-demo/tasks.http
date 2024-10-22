@@ -1,0 +1,6 @@
+### Start task
+POST http://localhost:8080/concurrency-demo-1.0-SNAPSHOT/api/tasks
+Content-Type: application/json
+
+### Events
+GET http://localhost:8080/concurrency-demo-1.0-SNAPSHOT/api/events
